@@ -1,0 +1,4 @@
+{'folder_1': ['index.html', 'style.css', 'main.py', 'images': 'users_photos'],
+ 'folder_2': ['users', 'admins', 'subscribers': 'data.py'],
+ 'folder_3': ['templases', '__init.py__', 'functions.py', 'base.html', 'settings': 'secret_folder']}
+
